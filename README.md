@@ -1,4 +1,4 @@
-# Rogério Sabino
+# 👨🏻‍💻 Rogério Sabino
 
 **`Desenvolvedor Python FullStack especialização ML`**
 
@@ -10,29 +10,28 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
 
 📈 Hoje, meu objetivo é usar tecnologia para potencializar negócios, tomadas de decisão baseadas em dados e criar experiências digitais mais inteligentes e acessíveis.
 
-<p align="Upper center">
-<!-- LinkedIn -->
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/rogerio-augusto-sabino-943714213" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
 
   <!-- Gmail -->
-  <p align="Upper right">
-  <a href="mailto:rogerio@email.com" target="_blank">
+  <a href="mailto:rogerio661@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-DD4B39?style=for-the-badge&logo=gmail&logoColor=white&labelColor=CC342D" alt="Gmail"/>
   </a>
 
   <!-- WhatsApp -->
-  <p align="Upper left">
-  <a href="https://wa.me/55SEUNUMEROAQUI" target="_blank">
+  <a href="https://wa.me/55(14)996013670" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=075E54" alt="WhatsApp"/>
   </a>
 
-  <!-- Seguidores do GitHub -->
+  <!-- GitHub Followers -->
   <a href="https://github.com/Rogério5?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/Rogério5?label=Seguidores&style=for-the-badge&logo=github&color=333333&labelColor=6e5494" alt="GitHub Followers"/>
   </a>
-</p>
+</div>
+
 
 
 ---
@@ -187,3 +186,6 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
 <br clear="left"/>
 <br/>
 <br/>
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rogerio5&show_icons=true&theme=radical)
+
