@@ -196,3 +196,12 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
 </body>
 </html>
 
+ <!-- Projetos -->
+  <h2>📂 Projetos em Destaque</h2>
+  <div class="cards-container">
+  <div class="project-card">
+      <h3>Dashboard com Power BI</h3>
+      <p>Análise interativa de dados com gráficos personalizados e KPIs em tempo real.</p>
+      <a href="#" target="_blank">Ver projeto</a>
+    </div>
+
