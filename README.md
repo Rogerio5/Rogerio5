@@ -187,7 +187,7 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
 <br/>
 <br/>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rogerio5&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rogerio5&show_icons=true&theme=radical&locale-pt-br)
 
 <div class="section">
     <h2>📂 Projetos em destaque</h2>
