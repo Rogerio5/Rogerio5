@@ -189,15 +189,10 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
 
 ### 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rogerio5&show_icons=true&theme=radical&locale=pt-br)
-
-<img
-  align="left"
-  alt="GitHub Stats"
-  height="100"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogerio5&layout=compact&theme=dark&locale=pt-br"
-/>
+<div style="display: flex; gap: 20px; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rogerio5&show_icons=true&theme=radical&locale=pt-br" alt="GitHub Stats" height="200" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogerio5&layout=compact&theme=dark&locale=pt-br" alt="Top Languages" height="200">
+</div>
 
 <div class="section">
     <h2>📂 Projetos em destaque</h2>
