@@ -174,6 +174,9 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
     style="padding-right: 10px;" 
      src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" 
   />
+
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+  
  <img 
     src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" 
     alt="NumPy" 
