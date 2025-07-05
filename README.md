@@ -161,7 +161,7 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
 />
 <img 
    align="left"
-   alt="Power BI Icon" 
+   alt="Power BI" 
    title="Power BI" 
    width="30px" 
    style="padding-right: 10px;" 
