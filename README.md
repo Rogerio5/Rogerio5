@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Rogério Sabino
+# 👨🏻‍💻 Rogerio Sabino
 
 **`Desenvolvedor Python FullStack especialização ML`**
 
