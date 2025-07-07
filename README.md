@@ -152,15 +152,6 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
-  src="https://upload.wikimedia.org/wikipedia/commons/1/17/Neural_network_icon.png" 
-  alt="IA - Rede Neural" 
-  title="Inteligência Artificial" 
-  width="30px" 
-  style="margin-right: 10px; vertical-align: middle;"
-/>
-
-
-<img 
    align="left" 
    alt="R" 
    title="R Language" 
