@@ -4,7 +4,7 @@
 
 Me chamo Rogerio Augusto Sabino, tenho 31 anos e sou natural de São Paulo. Concluí o ensino Superior na UNIP, com o curso tecnólogo da Gestão da Qualidade. Atualmente, estou cursando Engenharia de Software na Anhanguera. 
 
-Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em aplicações incríveis. Busco criar soluções que façam a diferença, com foco em usabilidade,dados, performance, experiência do usuário e design limpo. Estudo as tecnologias como Python, Django, Laravel, HTML, CSS, JavaScript, TypeScript, TensorFlow, Flutter, Firebase, Power BI, R e outras — integrando frontend, backend, mobile e ciência de dados para resolver problemas reais.
+Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em aplicações incríveis. Busco criar soluções que façam a diferença, com foco em usabilidade,dados, performance, experiência do usuário e design limpo. Estudo as tecnologias como Python, Django, Laravel, HTML, CSS, JavaScript, TensorFlow, Firebase, Power BI, R e outras — integrando frontend, backend, mobile e ciência de dados para resolver problemas reais.
 
 Sou apaixonado por Inteligência Artificial, automação de processos e análises preditivas, e estou sempre buscando formas de aprender, evoluir e aplicar esse conhecimento em projetos com impacto. Acredito em código limpo, soluções eficientes e interfaces que encantam.
 
@@ -62,14 +62,7 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="React"
@@ -78,14 +71,7 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Bootstrap"
@@ -119,14 +105,7 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="JQuery" 
