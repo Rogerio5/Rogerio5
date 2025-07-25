@@ -4,7 +4,7 @@
 
 Me chamo Rogerio Augusto Sabino, tenho 31 anos e sou natural de São Paulo. Concluí o ensino Superior na UNIP, com o curso tecnólogo da Gestão da Qualidade. Atualmente, estou cursando Engenharia de Software na Anhanguera. 
 
-Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em aplicações incríveis. Busco criar soluções que façam a diferença, com foco em usabilidade,dados, performance, experiência do usuário e design limpo. Estudo as tecnologias como Python, Django, Laravel, HTML, CSS, JavaScript, TensorFlow, Firebase, Power BI, R e outras — integrando frontend, backend, mobile e ciência de dados para resolver problemas reais.
+Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em aplicações incríveis. Crio soluções que fazem a diferença, priorizando usabilidade, dados, performance, experiência do usuário, design limpo e excelência em qualidade de software. Valorizo boas práticas de desenvolvimento como Clean Code. Estudo e aplico tecnologias como Python, Django, Laravel, HTML, CSS, JavaScript, TensorFlow, Firebase, Power BI, R e outras — integrando frontend, backend, mobile e ciência de dados para resolver problemas reais com alto padrão técnico e confiabilidade.
 
 Sou apaixonado por Inteligência Artificial, automação de processos e análises preditivas, e estou sempre buscando formas de aprender, evoluir e aplicar esse conhecimento em projetos com impacto. Acredito em código limpo, soluções eficientes e interfaces que encantam.
 
