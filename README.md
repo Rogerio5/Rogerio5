@@ -1,6 +1,5 @@
 # 👨🏻‍💻 Rogerio Sabino
 
-**`Desenvolvedor Python FullStack especialização ML`**
 
 Me chamo Rogerio Augusto Sabino, tenho 31 anos e sou natural de São Paulo. Concluí o ensino Superior na UNIP, com o curso tecnólogo da Gestão da Qualidade. Atualmente, estou cursando Engenharia de Software na Anhanguera. 
 
