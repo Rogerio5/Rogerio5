@@ -161,8 +161,6 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
 /> 
-<span style="font-size: 16px;">Jupyter - Ambiente interativo para ciência de dados e notebooks colaborativos</span>
-
  <img 
     src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" 
     alt="NumPy" 
