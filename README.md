@@ -186,7 +186,7 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogerio5&layout=compact&theme=radical&locale=pt-br" 
     alt="Top Languages" 
-    width="420" 
+    width="400" 
   >
 </div>
 
