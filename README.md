@@ -16,7 +16,7 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:rogerio661@gmail.com" target="_blank">
+  <a href="mailto:rogeriosabino661@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-DD4B39?style=for-the-badge&logo=gmail&logoColor=white&labelColor=CC342D" alt="Gmail"/>
   </a>
 
