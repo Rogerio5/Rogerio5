@@ -55,6 +55,8 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
   src="https://viciscat.github.io/MineralContest/imgs/github_logo.png" 
 />
 
+<img align="left" alt="Plotly" title="Plotly" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png"/>
+
 <img 
     align="left" 
     alt="CSS" 
