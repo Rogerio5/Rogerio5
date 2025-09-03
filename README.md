@@ -180,6 +180,13 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
      src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" 
   />
 
+  <img align="left"
+       alt="PyTorch" 
+       title="PyTorch" 
+       width="30px"
+       style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"/>
+  />
+
  <img 
     align="left" 
     alt="Jupyter" 
