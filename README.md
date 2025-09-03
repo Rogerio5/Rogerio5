@@ -184,7 +184,8 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
        alt="PyTorch" 
        title="PyTorch" 
        width="30px"
-       style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"/>
+       style="padding-right: 10px;
+       " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"/>
   />
 
  <img 
