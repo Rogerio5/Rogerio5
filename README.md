@@ -188,7 +188,7 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"
   />
-    
+  <img align="left" alt="Google Colab" title="Google Colab" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"/>
  <img 
     align="left" 
     alt="Jupyter" 
