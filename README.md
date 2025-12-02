@@ -213,7 +213,7 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
 
 
 
-<h2>📊 Estatísticas do GitHub</h2>
+
 
 <h2>📊 Estatísticas do GitHub</h2>
 
