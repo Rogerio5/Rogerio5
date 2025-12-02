@@ -211,13 +211,13 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
 <br/>
 <br/>
 
-## 📊 Estatísticas
+<h2>📊 Estatísticas</h2>
 
 <p align="center">
   <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://meu-perfil.vercel.app/api?username=Rogerio5&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
+    src="https://meu-perfil.vercel.app/api?username=Rogerio5&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
   />
   
   <img 
@@ -226,6 +226,7 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
     src="https://meu-perfil.vercel.app/api/top-langs/?username=Rogerio5&layout=compact&theme=radical&custom_title=Tecnologias&langs_count=9"
   />
 </p>
+
 
 
 <div class="section">
