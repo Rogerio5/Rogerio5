@@ -226,7 +226,7 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
   <img
     align="left"
     alt="Top Languages"
-    height="250"
+    height="300"
     style="padding-left: 20px;"
     src="https://meuperfil-omega.vercel.app/api/top-langs/?username=Rogerio5&layout=compact&theme=radical&custom_title=Tecnologias&langs_count=9"
   />
