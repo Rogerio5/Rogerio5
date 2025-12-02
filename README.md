@@ -211,7 +211,7 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
 <br/>
 <br/>
 
-<h2>📊 Estatísticas</h2>
+## 📊 Estatísticas
 
 <p align="center">
   <img 
@@ -226,7 +226,6 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
     src="https://meu-perfil.vercel.app/api/top-langs/?username=Rogerio5&layout=compact&theme=radical&custom_title=Tecnologias&langs_count=9"
   />
 </p>
-
 
 
 <div class="section">
