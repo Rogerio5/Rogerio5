@@ -213,19 +213,20 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
 
 ### 📊 Estatísticas
 
+### 📊 Estatísticas
+
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Rogerio5&show_icons=true&theme=radical&locale=pt-br" 
     alt="GitHub Stats" 
     width="460" 
-  >
+  />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogerio5&layout=compact&theme=radical&locale=pt-br" 
     alt="Top Languages" 
     width="350" 
-  >
+  />
 </div>
-
 
 
 <div class="section">
