@@ -217,7 +217,7 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
 
 <h2>📊 Estatísticas do GitHub</h2>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="left" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img 
     alt="GitHub Stats" 
     height="200" 
