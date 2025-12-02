@@ -46,14 +46,7 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
-<img 
-  align="left" 
-  alt="GitHub" 
-  title="GitHub" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://viciscat.github.io/MineralContest/imgs/github_logo.png" 
-/>
+<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 
 <img 
     align="left" 
