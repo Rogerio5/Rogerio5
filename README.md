@@ -218,7 +218,7 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
   <img
     align="left"
     alt="GitHub Stats"
-    height="200"
+    height="250"
     style="padding-right: 20px;"
     src="https://meuperfil-omega.vercel.app/api?username=Rogerio5&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
   />
@@ -226,12 +226,13 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
   <img
     align="left"
     alt="Top Languages"
-    height="200"
+    height="250"
     style="padding-left: 20px;"
     src="https://meuperfil-omega.vercel.app/api/top-langs/?username=Rogerio5&layout=compact&theme=radical&custom_title=Tecnologias&langs_count=9"
   />
 </p>
 <br clear="left" />
+
 
 
 <div class="section">
