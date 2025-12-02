@@ -215,7 +215,9 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
 
 <h2>📊 Estatísticas do GitHub</h2>
 
-<p align="center">
+<h2>📊 Estatísticas do GitHub</h2>
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img 
     alt="GitHub Stats" 
     height="200" 
@@ -227,7 +229,7 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
     height="200" 
     src="https://meuperfil-omega.vercel.app/api/top-langs/?username=Rogerio5&layout=compact&theme=radical&custom_title=Tecnologias&langs_count=9"
   />
-</p>
+</div>
 
 
 
