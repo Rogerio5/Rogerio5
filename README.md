@@ -234,6 +234,7 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
 
 
 
+
 <div class="section">
     <h2>📂 Projetos em destaque</h2>
     <p>Em breve aqui estarão meus principais repositórios com links, descrições e tecnologias usadas!</p>
