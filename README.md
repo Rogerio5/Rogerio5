@@ -211,9 +211,9 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
 <br/>
 <br/>
 
-## 📊 Estatísticas do GitHub
 
-<h2>📊 Estatísticas</h2>
+
+<h2>📊 Estatísticas do GitHub</h2>
 
 <p align="center">
   <img 
