@@ -214,23 +214,20 @@ Sou apaixonado por Inteligência Artificial, automação de processos e análise
 
 <h2>📊 Estatísticas do GitHub</h2>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
-  <div style="width: 48%; text-align: center;">
-    <img 
-      alt="GitHub Stats" 
-      width="40%" 
-      src="https://meuperfil-omega.vercel.app/api?username=Rogerio5&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
-    />
-  </div>
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: nowrap;">
+  <img 
+    alt="GitHub Stats" 
+    width="300" 
+    src="https://meuperfil-omega.vercel.app/api?username=Rogerio5&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
+  />
 
-  <div style="width: 48%; text-align: center;">
-    <img 
-      alt="Top Languages" 
-      width="40%" 
-      src="https://meuperfil-omega.vercel.app/api/top-langs/?username=Rogerio5&layout=compact&theme=radical&custom_title=Tecnologias&langs_count=9"
-    />
-  </div>
+  <img 
+    alt="Top Languages" 
+    width="300" 
+    src="https://meuperfil-omega.vercel.app/api/top-langs/?username=Rogerio5&layout=compact&theme=radical&custom_title=Tecnologias&langs_count=9"
+  />
 </div>
+
 
 
 
