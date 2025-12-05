@@ -11,7 +11,7 @@ Tenho certificações em Python, GitHub, Machine Learning, Power BI e Lean Six S
 
 Sou íntegro, comunicativo e colaborativo, valorizo o trabalho em equipe, eficiência e melhoria contínua. Estou em constante evolução, aberto a feedbacks e focado em construir soluções que gerem impacto real.
 
-📈 Hoje, meu objetivo é usar tecnologia para potencializar negócios, apoiar tomadas de decisão baseadas em dados e criar experiências digitais mais inteligentes e acessíveis. Tenho como meta seguir para uma pós-graduação em Inteligência Artificial e Engenharia de Software, aprofundando meus conhecimentos e ampliando minha capacidade de gerar inovação e impacto positivo no mercado.
+📈 Hoje, meu objetivo é usar tecnologia para potencializar negócios, apoiar tomadas de decisão baseadas em dados e criar experiências digitais mais inteligentes e acessíveis. Tenho como meta seguir para uma pós-graduação em Machine Learning e Inteligência Artificial, Engenharia de Software, aprofundando meus conhecimentos e ampliando minha capacidade de gerar inovação e impacto positivo no mercado.
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   <!-- LinkedIn -->
