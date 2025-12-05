@@ -1,13 +1,17 @@
 # 👨🏻‍💻 Rogerio Sabino
 
 
-Me chamo Rogerio Augusto Sabino, tenho 31 anos e sou natural de São Paulo. Concluí o ensino Superior na UNIP, com o curso tecnólogo da Gestão da Qualidade. Atualmente, estou cursando Engenharia de Software na Anhanguera. 
+Me chamo Rogerio Augusto Sabino, tenho 31 anos e sou natural de São Paulo. Concluí o ensino superior na UNIP com o curso tecnólogo em Gestão da Qualidade e atualmente curso Engenharia de Software na Anhanguera.
 
-Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em aplicações incríveis. Crio soluções que fazem a diferença, priorizando usabilidade, dados, performance, experiência do usuário, design limpo e excelência em qualidade de software. Valorizo boas práticas de desenvolvimento como Clean Code. Estudo e aplico tecnologias como Python, Django, Laravel, HTML, CSS, JavaScript, TensorFlow, Firebase, Power BI, R e outras — integrando frontend, backend, mobile e ciência de dados para resolver problemas reais com alto padrão técnico e confiabilidade.
+Sou um desenvolvedor apaixonado por tecnologia, inovação e aprendizado contínuo, com experiência em projetos que integram FullStack com aplicações em Inteligência Artificial, análise de dados e automação de processos.
 
-Sou apaixonado por Inteligência Artificial, automação de processos e análises preditivas, e estou sempre buscando formas de aprender, evoluir e aplicar esse conhecimento em projetos com impacto. Acredito em código limpo, soluções eficientes e interfaces que encantam.
+Valorizo boas práticas de desenvolvimento como Clean Code, usabilidade, performance e design limpo, sempre com foco em criar soluções que façam diferença e proporcionem excelência em qualidade de software.
 
-📈 Hoje, meu objetivo é usar tecnologia para potencializar negócios, tomadas de decisão baseadas em dados e criar experiências digitais mais inteligentes e acessíveis.
+Tenho certificações em Python, GitHub, Machine Learning, Power BI e Lean Six Sigma, além de experiência prática com tecnologias como Flask, Django, HTML, CSS, JavaScript, TensorFlow, Firebase, R, OpenCV e LLMs. Minha atuação integra frontend, backend, mobile e ciência de dados, buscando resolver problemas reais com alto padrão técnico e confiabilidade.
+
+Sou íntegro, comunicativo e colaborativo, valorizo o trabalho em equipe, eficiência e melhoria contínua. Estou em constante evolução, aberto a feedbacks e focado em construir soluções que gerem impacto real.
+
+📈 Hoje, meu objetivo é usar tecnologia para potencializar negócios, apoiar tomadas de decisão baseadas em dados e criar experiências digitais mais inteligentes e acessíveis. Tenho como meta seguir para uma pós-graduação em Inteligência Artificial e Engenharia de Software, aprofundando meus conhecimentos e ampliando minha capacidade de gerar inovação e impacto positivo no mercado.
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   <!-- LinkedIn -->
