@@ -231,11 +231,7 @@ Sou íntegro, comunicativo e colaborativo, valorizo o trabalho em equipe, efici�
 
 <div class="section">
     <h2>📂 Projetos em destaque</h2>
-    <p>Em breve aqui estarão meus principais repositórios com links, descrições e tecnologias usadas!</p>
-  </div>
-</body>
-</html>
-
+    
 Aqui estão alguns dos meus principais repositórios, cada um explorando diferentes áreas de Machine Learning, Visão Computacional e Engenharia de Software:
 
 - 🐱🐶 [Classificação de Gatos e Cachorros com MobileNetV2 + Grad‑CAM](https://github.com/Rogerio5/Transfer-Learning-Project-in-Python-)  
