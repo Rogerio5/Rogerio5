@@ -228,7 +228,6 @@ Sou íntegro, comunicativo e colaborativo, valorizo o trabalho em equipe, efici�
   />
 </p>
 <br clear="left" />
----
 
 <div class="section">
     <h2>📂 Projetos em destaque</h2>
