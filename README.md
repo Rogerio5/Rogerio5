@@ -238,5 +238,26 @@ Sou íntegro, comunicativo e colaborativo, valorizo o trabalho em equipe, efici�
 </body>
 </html>
 
+Aqui estão alguns dos meus principais repositórios, cada um explorando diferentes áreas de Machine Learning, Visão Computacional e Engenharia de Software:
 
+- 🐱🐶 [Classificação de Gatos e Cachorros com MobileNetV2 + Grad‑CAM](https://github.com/Rogerio5/Transfer-Learning-Project-in-Python-)  
+  *CNNs, interpretabilidade com Grad‑CAM e exportação para TensorFlow Lite.*
+
+- 🧠 [Processamento de Imagens PPM](https://github.com/Rogerio5/Dimensionality-Reduction-in-Images-for-Neural-Networks-)  
+  *Manipulação de imagens em baixo nível, conversão para cinza e binarização sem bibliotecas externas.*
+
+- 🛡️ [Detecção de EPIs com YOLOv3](https://github.com/Rogerio5/Yolo-Network-Detection-Project)  
+  *Pipeline completo de detecção de objetos com métricas mAP, precisão e recall.*
+
+- 🎯 [Sistema de Recomendação de Imagens](https://github.com/Rogerio5/Digital-image-recommendation-system-Project)  
+  *Embeddings visuais, PCA, heatmap de similaridade e recomendações interativas.*
+
+- 🔐 [Agente de Vulnerabilidades em Arquiteturas Web](https://github.com/Rogerio5/Architectures-Vulnerability-Detection-Agent-Project)  
+  *Simulação de ataques, análise estática com Bandit e dashboards STRIDE/STIX.*
+
+- 📸 [Reconhecimento Facial com Webcam](https://github.com/Rogerio5/Facial-Detection-Project)  
+  *Detecção facial com MTCNN, FaceNet, SVM e OpenCV.*
+
+- 🤖 [LangChain TestGen com Ollama](https://github.com/Rogerio5/langchain-testgen-ollama)  
+  *Automação de testes unitários com IA local, integração com Pytest e LangChain.*
 
