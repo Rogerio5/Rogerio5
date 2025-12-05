@@ -35,8 +35,6 @@ Sou íntegro, comunicativo e colaborativo, valorizo o trabalho em equipe, efici�
   </a>
 </div>
 
-
-
 ---
 
 ## 🤖 Linguagens e Tecnologias
@@ -208,6 +206,7 @@ Sou íntegro, comunicativo e colaborativo, valorizo o trabalho em equipe, efici�
 <br/>
 <br/>
 
+---
 
 <h2>📊 Estatísticas do GitHub</h2>
 
@@ -229,7 +228,7 @@ Sou íntegro, comunicativo e colaborativo, valorizo o trabalho em equipe, efici�
   />
 </p>
 <br clear="left" />
-
+---
 
 <div class="section">
     <h2>📂 Projetos em destaque</h2>
