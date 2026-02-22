@@ -7,7 +7,7 @@ Sou um desenvolvedor apaixonado por tecnologia, inovação e aprendizado contín
 
 Valorizo boas práticas de desenvolvimento como Clean Code, usabilidade, performance e design limpo, sempre com foco em criar soluções que façam diferença e proporcionem excelência em qualidade de software.
 
-Tenho certificações em Python, GitHub, Machine Learning, Power BI e Lean Six Sigma, além de experiência prática com tecnologias como Flask, Django, HTML, CSS, JavaScript, TensorFlow, Firebase, R, OpenCV e LLMs. Minha atuação integra frontend, backend, mobile e ciência de dados, buscando resolver problemas reais com alto padrão técnico e confiabilidade.
+Tenho certificações em Python, GitHub, Machine Learning, Power BI e Lean Six Sigma, além de experiência prática com tecnologias como Flask, Django, HTML, CSS, JavaScript, TensorFlow, Firebase, R, OpenCV e LLMs. Minha atuação integra frontend, backend, Inteligência Artificial e Machine Learning, buscando resolver problemas reais com alto padrão técnico e confiabilidade.
 
 Sou íntegro, comunicativo e colaborativo, valorizo o trabalho em equipe, eficiência e melhoria contínua. Estou em constante evolução, aberto a feedbacks e focado em construir soluções que gerem impacto real.
 
