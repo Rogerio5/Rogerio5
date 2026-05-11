@@ -40,13 +40,8 @@ Consolidar a minha carreira em IA e Engenharia de Dados. O meu próximo passo ac
 ## 🤖 Linguagens e Tecnologias
 
 <img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+    align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 
  <img align="left" alt="Docker" title="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
@@ -54,138 +49,44 @@ Consolidar a minha carreira em IA e Engenharia de Dados. O meu próximo passo ac
 <img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 
 <img 
-    align="left" 
-    alt="SQLite" 
-    title="SQLite"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.sqlite.org/images/sqlite370_banner.gif" 
-/> 
+    align="left" alt="SQLite" title="SQLite" width="30px" style="padding-right: 10px;" src="https://www.sqlite.org/images/sqlite370_banner.gif" /> 
 
-<img align="left"
-     alt="Plotly" 
-     title="Plotly" 
-     width="30px" 
-     style="padding-right: 10px;" 
-     src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png"
-  />
+<img align="left" alt="Plotly" title="Plotly" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png"  />
 
 <img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+    align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+    align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 <img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+    align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
 <img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
+    align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 <img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+    align="left" alt="Tailwind" title="Tailwind" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img 
-  align="left"
-  alt="Django" 
-  title="Django"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://www.svgrepo.com/show/353657/django-icon.svg" 
-/>
+  align="left" alt="Django" title="Django" width="30px" style="padding-right: 10px;" src="https://www.svgrepo.com/show/353657/django-icon.svg" />
 
 <img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+    align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 
 <img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
+    align="left" alt="JQuery" title="JQuery" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
 <img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+    align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+    align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img 
-   align="left" 
-   alt="R" 
-   title="R Language" 
-   width="30px" 
-   style="padding-right: 10px;" 
-   src="https://www.r-project.org/logo/Rlogo.svg" 
-/>
+   align="left" alt="R" title="R Language" width="30px" style="padding-right: 10px;" src="https://www.r-project.org/logo/Rlogo.svg" />
 <img 
-   align="left"
-   alt="Power BI Icon" 
-   title="Power BI" 
-   width="30px" 
-   style="padding-right: 10px;" 
-   src="https://img.icons8.com/color/48/000000/power-bi.png" 
-/>
+   align="left" alt="Power BI Icon" title="Power BI" width="30px" style="padding-right: 10px;"  src="https://img.icons8.com/color/48/000000/power-bi.png" />
 <img  
-    alt="TensorFlow" 
-    title="TensorFlow" 
-    width="30px" 
-    style="padding-right: 10px;" 
-     src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" 
-  />
+    alt="TensorFlow" title="TensorFlow" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"   />
 
   <img
-    align="left"
-    alt="PyTorch" 
-    title="PyTorch" 
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"
-  />
+    align="left" alt="PyTorch" title="PyTorch" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"  />
+    
   <img align="left" alt="Google Colab" title="Google Colab" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"/>
 
   <img alt="Grafana" title="Grafana" width="50px" src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg"/>
@@ -193,20 +94,9 @@ Consolidar a minha carreira em IA e Engenharia de Dados. O meu próximo passo ac
   <img alt="Prometheus" title="Prometheus" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg"/>
   
  <img 
-    align="left" 
-    alt="Jupyter" 
-    title="Jupyter" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
-/> 
+    align="left" alt="Jupyter" title="Jupyter"  width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" /> 
  <img 
-    src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" 
-    alt="NumPy" 
-    title="NumPy" 
-    width="30px" 
-    style="padding-right: 10px;" 
-  />
+    src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" title="NumPy" width="30px" style="padding-right: 10px;"  />
 </p>
 
 <br clear="left"/>
