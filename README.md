@@ -1,17 +1,19 @@
 # 👨🏻‍💻 Rogerio Sabino
 
+# Hi, I'm Rogerio Augusto Sabino! 🚀
 
-Me chamo Rogerio Augusto Sabino, tenho 31 anos e sou natural de São Paulo. Concluí o ensino superior na UNIP com o curso tecnólogo em Gestão da Qualidade e atualmente curso Engenharia de Software na Anhanguera.
+**AI & Machine Learning Engineer | FullStack Developer | OCI Certified**
 
-Sou um desenvolvedor apaixonado por tecnologia, inovação e aprendizado contínuo, com experiência em projetos que integram FullStack com aplicações em Inteligência Artificial, análise de dados e automação de processos.
+Transformando dados em inteligência estratégica e processos em eficiência operacional. Sou apaixonado por tecnologia e inovação, unindo o rigor da **Gestão da Qualidade** à robustez da **Engenharia de Software**. O meu foco é projetar soluções escaláveis, seguras e orientadas a resultados reais.
 
-Valorizo boas práticas de desenvolvimento como Clean Code, usabilidade, performance e design limpo, sempre com foco em criar soluções que façam diferença e proporcionem excelência em qualidade de software.
+### 🛠️ Atuação Técnica:
+* **Arquitetura Lakehouse:** Pipelines com Databricks e PySpark.
+* **IA Generativa:** Implementação de LLMs, arquiteturas RAG e agentes inteligentes (LangChain/CrewAI).
+* **Visão Computacional:** Sistemas de biometria e deteção de objetos (OpenCV/YOLO).
+* **Engenharia de Software:** Desenvolvimento FullStack (Python/React) com foco em Clean Code e MLOps.
 
-Tenho certificações em Python, GitHub, Machine Learning, Power BI e Lean Six Sigma, além de experiência prática com tecnologias como Flask, Django, HTML, CSS, JavaScript, TensorFlow, Firebase, R, OpenCV e LLMs. Minha atuação integra frontend, backend, Inteligência Artificial e Machine Learning, buscando resolver problemas reais com alto padrão técnico e confiabilidade.
-
-Sou íntegro, comunicativo e colaborativo, valorizo o trabalho em equipe, eficiência e melhoria contínua. Estou em constante evolução, aberto a feedbacks e focado em construir soluções que gerem impacto real.
-
-📈 Hoje, meu objetivo é usar tecnologia para potencializar negócios, apoiar tomadas de decisão baseadas em dados e criar experiências digitais mais inteligentes e acessíveis. Tenho como meta seguir para uma pós-graduação em Machine Learning e Inteligência Artificial, Engenharia de Software, Dados...aprofundando meus conhecimentos e ampliando minha capacidade de gerar inovação e impacto positivo no mercado.
+### 🎯 Objetivo Atual:
+Consolidar a minha carreira em IA e Engenharia de Dados. O meu próximo passo académico é ingressar numa pós-graduação em Machine Learning e IA, visando **ampliar minha capacidade de projetar soluções inteligentes de alto impacto e liderar projetos disruptivos no mercado.**
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   <!-- LinkedIn -->
