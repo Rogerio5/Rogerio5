@@ -96,9 +96,9 @@ Consolidar a minha carreira em IA e Engenharia de Dados. O meu próximo passo ac
  <img 
     src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" title="NumPy" width="30px" style="padding-right: 10px;"  />
 
- <img alt="Prometheus" title="Prometheus" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg"/>
+ <img alt="Prometheus" title="Prometheus" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg"/>
 
- <img alt="Grafana" title="Grafana" width="50px" src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg"/>
+ <img alt="Grafana" title="Grafana" width="30px" src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg"/>
     
 </p>
 
