@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Hi, I'm Rogerio Augusto Sabino 
 
-**AI & Machine Learning Engineer | FullStack Developer | OCI Certified**
+**AI & Machine Learning Engineer | Data Engineer | FullStack Developer | OCI Certified**
 
 Transformando dados em inteligência estratégica e processos em eficiência operacional. Sou apaixonado por tecnologia e inovação, unindo o rigor da **Gestão da Qualidade** à robustez da **Engenharia de Software**. O meu foco é projetar soluções escaláveis, seguras e orientadas a resultados reais.
 
