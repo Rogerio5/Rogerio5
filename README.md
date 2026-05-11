@@ -39,73 +39,39 @@ Consolidar a minha carreira em IA e Engenharia de Dados. O meu próximo passo ac
 
 ## 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+---
 
- <img align="left" alt="Docker" title="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+## 🤖 Linguagens e Tecnologias
 
-<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-
-<img 
-    align="left" alt="SQLite" title="SQLite" width="30px" style="padding-right: 10px;" src="https://www.sqlite.org/images/sqlite370_banner.gif" /> 
-
-<img align="left" alt="Plotly" title="Plotly" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png"  />
-
-<img 
-    align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img 
-    align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-<img 
-    align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-
-<img 
-    align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img 
-    align="left" alt="Tailwind" title="Tailwind" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img 
-  align="left" alt="Django" title="Django" width="30px" style="padding-right: 10px;" src="https://www.svgrepo.com/show/353657/django-icon.svg" />
-
-<img 
-    align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-
-<img 
-    align="left" alt="JQuery" title="JQuery" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
-<img 
-    align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img 
-    align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img 
-   align="left" alt="R" title="R Language" width="30px" style="padding-right: 10px;" src="https://www.r-project.org/logo/Rlogo.svg" />
-<img 
-   align="left" alt="Power BI Icon" title="Power BI" width="30px" style="padding-right: 10px;"  src="https://img.icons8.com/color/48/000000/power-bi.png" />
-<img  
-    alt="TensorFlow" title="TensorFlow" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"   />
-
-  <img
-    align="left" alt="PyTorch" title="PyTorch" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"  />
-    
-  <img align="left" alt="Google Colab" title="Google Colab" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"/>
-
-  
-  
- <img 
-    align="left" alt="Jupyter" title="Jupyter"  width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" /> 
- <img 
-    src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" title="NumPy" width="30px" style="padding-right: 10px;"  />
-
- <img alt="Prometheus" title="Prometheus" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg"/>
-
- <img alt="Grafana" title="Grafana" width="30px" src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg"/>
-    
+<p align="left">
+  <img alt="HTML" title="HTML" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS" title="CSS" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="React" title="React" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="Bootstrap" title="Bootstrap" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img alt="Tailwind" title="Tailwind" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img alt="Django" title="Django" width="35" src="https://www.svgrepo.com/show/353657/django-icon.svg" />
+  <img alt="Python" title="Python" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="R" title="R Language" width="35" src="https://www.r-project.org/logo/Rlogo.svg" />
+  <img alt="PHP" title="PHP" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img alt="PostgreSQL" title="PostgreSQL" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+  <img alt="SQLite" title="SQLite" width="35" src="https://www.sqlite.org/images/sqlite370_banner.gif" /> 
+  <img alt="Docker" title="Docker" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+  <img alt="GitHub" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+  <img alt="Git" title="Git" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="TensorFlow" title="TensorFlow" width="35" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />
+  <img alt="PyTorch" title="PyTorch" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+  <img alt="NumPy" title="NumPy" width="35" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />
+  <img alt="Power BI" title="Power BI" width="35" src="https://img.icons8.com/color/48/000000/power-bi.png" />
+  <img alt="Google Colab" title="Google Colab" width="35" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"/>
+  <img alt="Jupyter" title="Jupyter" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+  <img alt="Prometheus" title="Prometheus" width="35" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg"/>
+  <img alt="Grafana" title="Grafana" width="35" src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg"/>
 </p>
 
 <br clear="left"/>
-<br/>
-<br/>
-<br/>
+
+---
 
 ---
 
