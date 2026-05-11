@@ -1,18 +1,16 @@
-# 👨🏻‍💻 Rogerio Sabino
-
-# Hi, I'm Rogerio Augusto Sabino! 🚀
+# 👨🏻‍💻 Hi, I'm Rogerio Augusto Sabino 
 
 **AI & Machine Learning Engineer | FullStack Developer | OCI Certified**
 
 Transformando dados em inteligência estratégica e processos em eficiência operacional. Sou apaixonado por tecnologia e inovação, unindo o rigor da **Gestão da Qualidade** à robustez da **Engenharia de Software**. O meu foco é projetar soluções escaláveis, seguras e orientadas a resultados reais.
 
-### 🛠️ Atuação Técnica:
+### Atuação Técnica:
 * **Arquitetura Lakehouse:** Pipelines com Databricks e PySpark.
 * **IA Generativa:** Implementação de LLMs, arquiteturas RAG e agentes inteligentes (LangChain/CrewAI).
 * **Visão Computacional:** Sistemas de biometria e deteção de objetos (OpenCV/YOLO).
 * **Engenharia de Software:** Desenvolvimento FullStack (Python/React) com foco em Clean Code e MLOps.
 
-### 🎯 Objetivo Atual:
+### Objetivo Atual:
 Consolidar a minha carreira em IA e Engenharia de Dados. O meu próximo passo académico é ingressar numa pós-graduação em Machine Learning e IA, visando **ampliar minha capacidade de projetar soluções inteligentes de alto impacto e liderar projetos disruptivos no mercado.**
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
