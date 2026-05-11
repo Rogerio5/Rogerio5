@@ -39,10 +39,6 @@ Consolidar a minha carreira em IA e Engenharia de Dados. O meu próximo passo ac
 
 ## 🤖 Linguagens e Tecnologias
 
----
-
-## 🤖 Linguagens e Tecnologias
-
 <p align="left">
   <img alt="HTML" title="HTML" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS" title="CSS" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -70,8 +66,6 @@ Consolidar a minha carreira em IA e Engenharia de Dados. O meu próximo passo ac
 </p>
 
 <br clear="left"/>
-
----
 
 ---
 
