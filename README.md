@@ -139,21 +139,25 @@ Seleção de projetos que demonstram minha atuação prática em **Engenharia de
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img
+        width="100%"
+        alt="Estatísticas do GitHub"
+        src="https://meuperfil-omega.vercel.app/api?username=Rogerio5&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
+      />
+    </td>
 
-  <img
-    alt="GitHub Stats"
-    width="49%"
-    src="https://meuperfil-omega.vercel.app/api?username=Rogerio5&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
-  />
-
-  <img
-    alt="Top Languages"
-    width="49%"
-    src="https://meuperfil-omega.vercel.app/api/top-langs/?username=Rogerio5&layout=compact&theme=radical&custom_title=Tecnologias&langs_count=9"
-  />
-
-</p>
+    <td width="50%" valign="top">
+      <img
+        width="100%"
+        alt="Tecnologias"
+        src="https://meuperfil-omega.vercel.app/api/top-langs/?username=Rogerio5&layout=compact&theme=radical&custom_title=Tecnologias&langs_count=9"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
