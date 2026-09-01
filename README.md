@@ -137,27 +137,28 @@ Seleção de projetos que demonstram minha atuação prática em **Engenharia de
 
 ---
 
-## 📊 Estatísticas do GitHub
+h2>📊 Estatísticas do GitHub</h2>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img
-        width="100%"
-        alt="Estatísticas do GitHub"
-        src="https://meuperfil-omega.vercel.app/api?username=Rogerio5&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
-      />
-    </td>
+<p>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://meuperfil-omega.vercel.app/api?username=Rogerio5&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
+  />
 
-    <td width="50%" valign="top">
-      <img
-        width="100%"
-        alt="Tecnologias"
-        src="https://meuperfil-omega.vercel.app/api/top-langs/?username=Rogerio5&layout=compact&theme=radical&custom_title=Tecnologias&langs_count=9"
-      />
-    </td>
-  </tr>
-</table>
+  <img
+    align="left"
+    alt="Top Languages"
+    height="200"
+    style="padding-left: 10px;"
+    src="https://meuperfil-omega.vercel.app/api/top-langs/?username=Rogerio5&layout=compact&theme=radical&custom_title=Tecnologias&langs_count=9"
+  />
+</p>
+<br clear="left" />
+
+<div class="section">
 
 ---
 
