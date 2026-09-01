@@ -175,11 +175,6 @@ Meu objetivo é atuar cada vez mais na interseção entre:
 
 ---
 
-### 🌐 Contato
-<div align="center"> <a href="https://www.linkedin.com/in/rogerio-augusto-sabino-943714213"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:rogeriosabino661@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Rogerio5"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
-
----
-
 ### Tecnologias e conceitos
 - Python
 - LangGraph
