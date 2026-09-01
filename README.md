@@ -137,7 +137,7 @@ Seleção de projetos que demonstram minha atuação prática em **Engenharia de
 
 ---
 
-## h2>📊 Estatísticas do GitHub</h2>
+<h2>📊 Estatísticas do GitHub</h2>
 
 <p>
   <img
