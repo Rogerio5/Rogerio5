@@ -164,10 +164,63 @@ Meu objetivo é atuar cada vez mais na interseção entre:
 
 ---
 
+### Tecnologias e conceitos
+- Python
+- LangGraph
+- LlamaIndex
+- RAG híbrido
+- LLM
+- Supervisor
+- Subagentes
+- Estado de sessão
+- MCP
+- Pydantic
+- Regras determinísticas
+- Human-in-the-Loop
+- Guardrails
+- Docker
+- API REST
+- Testes automatizados
+
+--- 
+
+### Evolução da validação
+
+Na entrega do desafio, a solução alcançou 93,4%, com:
+
+| Caso      | Resultado |
+| --------- | --------: |
+| Caso 01   |       7/8 |
+| Caso 02   |       9/9 |
+| Caso 03   |       6/7 |
+| **Total** | **22/24** |
+
+Após análise dos pontos identificados e novas melhorias:
+
+| Caso      | Nova validação |
+| --------- | -------------: |
+| Caso 01   |          ✅ 8/8 |
+| Caso 02   |          ✅ 9/9 |
+| Caso 03   |          ✅ 7/7 |
+| **Total** |    **✅ 24/24** |
+
+
+Uma bateria complementar avaliada por LLM como juiz também alcançou:
+
+✅ 10/10 cenários atendidos
+
+Testar → identificar falhas → corrigir → revalidar → evoluir.
+
+---
+
+
 <div class="section">
     <h2>📂 Projetos em destaque</h2>
     
 Aqui estão alguns dos meus principais repositórios, cada um explorando diferentes áreas de Machine Learning, Visão Computacional e Engenharia de Software:
+
+- 💰 [Agente Inteligente de Reembolso](https://github.com/Rogerio5/Reembolso-Inteligente-AI)  
+  *Agente de IA com supervisor, RAG híbrido, LangGraph, LlamaIndex, regras determinísticas, estado de sessão, HITL, guardrails e avaliação automatizada com LLM como juiz.*
 
 - 🐱🐶 [Classificação de Gatos e Cachorros com MobileNetV2 + Grad‑CAM](https://github.com/Rogerio5/Transfer-Learning-Project-in-Python-)  
   *CNNs, interpretabilidade com Grad‑CAM e exportação para TensorFlow Lite.*
