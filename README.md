@@ -1,3 +1,176 @@
+# 👨🏻‍💻 Olá, eu sou Rogério Augusto Sabino
+
+### 🤖 AI & Data Engineer | GenAI • RAG • LLMs • Python • FastAPI • Machine Learning • AWS • OCI
+
+Desenvolvo soluções de **Inteligência Artificial, Engenharia de Dados e Engenharia de Software** com foco em aplicações práticas, agentes inteligentes, RAG, Machine Learning, APIs e arquiteturas confiáveis.
+
+Minha formação em **Engenharia de Software** e **Gestão da Qualidade** contribui para uma abordagem que combina tecnologia, dados, testes, confiabilidade, melhoria contínua e resolução de problemas reais.
+
+Atualmente, concentro meus projetos em **Engenharia de IA, sistemas agentic, RAG, LLMs, Machine Learning, APIs, PostgreSQL, observabilidade, testes e Cloud Computing**.
+
+---
+
+## 🚀 Principais áreas de atuação
+
+- 🧠 **Engenharia de IA**
+- 🤖 **Agentes de IA e Sistemas Multiagentes**
+- ✨ **Generative AI e Large Language Models (LLMs)**
+- 📚 **Retrieval-Augmented Generation (RAG)**
+- 🔄 **Orquestração de agentes e workflows**
+- 👨‍💻 **Python e FastAPI**
+- 📊 **Engenharia e Análise de Dados**
+- 🗄️ **SQL, PostgreSQL e bancos vetoriais**
+- 🤖 **Machine Learning**
+- 👁️ **Visão Computacional**
+- 🧪 **Testes, Qualidade e Confiabilidade de Software**
+- 🐳 **Docker e CI/CD**
+- ☁️ **AWS e Oracle Cloud Infrastructure**
+- 📈 **Observabilidade, auditoria e rastreabilidade**
+
+---
+
+## 🧠 Inteligência Artificial e IA Generativa
+
+Tenho desenvolvido projetos envolvendo:
+
+- **Large Language Models (LLMs)**
+- **Retrieval-Augmented Generation (RAG)**
+- **Hybrid RAG**
+- **Vector Search**
+- **Reranking**
+- **Embeddings**
+- **Agentes Inteligentes**
+- **Arquiteturas Multiagentes**
+- **LangGraph**
+- **LangChain**
+- **LlamaIndex**
+- **Human-in-the-Loop (HITL)**
+- **Guardrails**
+- **Memória e gerenciamento de contexto**
+- **Prompt Engineering**
+- **Structured Outputs**
+- **Avaliação de agentes**
+- **Testes de regressão para IA**
+- **Observabilidade de aplicações de IA**
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Linguagens
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🤖 IA, Machine Learning e Dados
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🧠 GenAI & Agentic AI
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-purple?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-RAG-blue?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-success?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-Large_Language_Models-blueviolet?style=for-the-badge)
+
+### ⚙️ Backend e APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### 🗄️ Dados e Bancos de Dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 📊 Analytics e Observabilidade
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+---
+
+# 🚀 Projetos em Destaque
+
+## 🧠 INNA AI Platform
+
+Plataforma modular de Inteligência Artificial projetada para integrar **agentes, RAG, dados, automação, governança, observabilidade e soluções empresariais**.
+
+### Principais conceitos
+
+- Enterprise RAG
+- Agentes de IA
+- Memória por usuário
+- Supervisão de agentes
+- Human-in-the-Loop
+- PostgreSQL / pgvector
+- APIs com FastAPI
+- Observabilidade
+- Auditoria
+- Governança de IA
+- Arquitetura modular
+
+O objetivo é evoluir a INNA como uma plataforma capaz de receber diferentes soluções de negócio e serviços compartilhados de Inteligência Artificial.
+
+---
+
+## 💰 Agente Inteligente de Reembolso
+
+🔗 [Acessar projeto](https://github.com/Rogerio5/Reembolso-Inteligente-AI)
+
+Projeto desenvolvido durante o **Bootcamp de Engenharia de IA 2026**, envolvendo construção de um agente capaz de conduzir solicitações de reembolso de maneira controlada.
+
+### Arquitetura
+
+```text
+Usuário
+   ↓
+Solicitação de Reembolso
+   ↓
+Supervisor
+   ↓
+Triagem ─ Documentos ─ Contexto
+   ↓
+RAG / Normas + Regras / Cálculo
+   ↓
+Validação
+   ↓
+┌──────────────────┐
+│                  │
+↓                  ↓
+Decisão         Análise
+Automática       Humana
+
+
+
+----
+
 # 👨🏻‍💻 Hi, I'm Rogerio Augusto Sabino 
 
 **AI & Machine Learning Engineer | Data Engineer | FullStack Developer | OCI Certified**
