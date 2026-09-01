@@ -164,7 +164,7 @@ Meu objetivo é atuar cada vez mais na interseção entre:
 
 ---
 
-📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 <p>
 
 <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://meuperfil-omega.vercel.app/api?username=Rogerio5&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" />
@@ -172,6 +172,11 @@ Meu objetivo é atuar cada vez mais na interseção entre:
 <img align="left" alt="Top Languages" height="200" style="padding-left: 10px;" src="https://meuperfil-omega.vercel.app/api/top-langs/?username=Rogerio5&layout=compact&theme=radical&custom_title=Tecnologias&langs_count=9" />
 
 </p> <br clear="left" />
+
+---
+
+### 🌐 Contato
+<div align="center"> <a href="https://www.linkedin.com/in/rogerio-augusto-sabino-943714213"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:rogeriosabino661@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Rogerio5"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
 
 ---
 
