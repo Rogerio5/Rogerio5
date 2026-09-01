@@ -2,9 +2,9 @@
 
 # 👨🏻‍💻 Rogério Augusto Sabino
 
-### 🤖 AI & Data Engineer
+### 🤖 Engenharia de IA & Dados
 
-**GenAI • RAG • LLMs • Agentic AI • Python • FastAPI • Machine Learning • Data Engineering • AWS • OCI**
+**GenAI • RAG • LLMs • Agentic AI • Python • FastAPI • Machine Learning • AWS • OCI**
 
 > **Inteligência Artificial, dados e engenharia de software aplicados à construção de soluções confiáveis, escaláveis e orientadas a problemas reais.**
 
@@ -164,7 +164,7 @@ Seleção de projetos que demonstram minha atuação prática em **Engenharia de
 
 <div align="center">
 
-### 🚀 AI • Data • Machine Learning • Software Engineering • Cloud
+### 🚀 IA • Dados • Machine Learning • Engenharia de Software • Cloud
 
 **Construindo soluções inteligentes com engenharia, dados e propósito.**
 
