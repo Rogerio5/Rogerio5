@@ -217,7 +217,7 @@ Testar → identificar falhas → corrigir → revalidar → evoluir.
 <div class="section">
     <h2>📂 Projetos em destaque</h2>
     
-Aqui estão alguns dos meus principais repositórios, cada um explorando diferentes áreas de Machine Learning, Visão Computacional e Engenharia de Software:
+Seleção de projetos que demonstram minha atuação prática em Engenharia de IA, IA Generativa, Machine Learning, Dados, Visão Computacional, Segurança e Engenharia de Software:
 
 - 💰 [Agente Inteligente de Reembolso](https://github.com/Rogerio5/Reembolso-Inteligente-AI)  
   *Agente de IA com supervisor, RAG híbrido, LangGraph, LlamaIndex, regras determinísticas, estado de sessão, HITL, guardrails e avaliação automatizada com LLM como juiz.*
