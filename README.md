@@ -167,7 +167,7 @@ Validação
 Decisão         Análise
 Automática       Humana
 
-
+```
 
 ----
 
