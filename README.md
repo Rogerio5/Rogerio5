@@ -152,22 +152,16 @@ Seleção de projetos que demonstram minha atuação prática em **Engenharia de
 
 ---
 
-## 📊 Estatísticas do GitHub
+---
+
+## 📈 Atividade no GitHub
 
 <p align="center">
-
   <img
-    alt="GitHub Stats"
-    height="195"
-    src="https://meuperfil-omega.vercel.app/api?username=Rogerio5&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
+    src="https://ghchart.rshah.org/Rogerio5"
+    alt="Calendário de contribuições GitHub de Rogério Augusto Sabino"
+    width="100%"
   />
-
-  <img
-    alt="Top Languages"
-    height="195"
-    src="https://meuperfil-omega.vercel.app/api/top-langs/?username=Rogerio5&layout=compact&theme=radical&custom_title=Tecnologias&langs_count=9"
-  />
-
 </p>
 
 ---
