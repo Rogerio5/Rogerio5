@@ -152,14 +152,24 @@ Seleção de projetos que demonstram minha atuação prática em **Engenharia de
 
 ---
 
----
-
 ## 📈 Atividade no GitHub
 
 <p align="center">
   <img
     src="https://ghchart.rshah.org/Rogerio5"
     alt="Calendário de contribuições GitHub de Rogério Augusto Sabino"
+    width="100%"
+  />
+</p>
+
+---
+
+## 📈 Atividade no GitHub
+
+<p align="center">
+  <img
+    src="assets/github-contributions-2026.png"
+    alt="Atividade de contribuições no GitHub em 2026"
     width="100%"
   />
 </p>
