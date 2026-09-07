@@ -4,7 +4,7 @@
 
 ### 🤖 Engenharia de IA & Dados
 
-**GenAI • RAG • LLMs • Agentic AI • Python • FastAPI • Machine Learning • AWS • OCI**
+**GenAI • RAG • LLMs • Agentic AI • Python • FastAPI • Machine Learning • MLOps • AWS • OCI**
 
 > **Inteligência Artificial, dados e engenharia de software aplicados à construção de soluções confiáveis, escaláveis e orientadas a problemas reais.**
 
@@ -28,11 +28,13 @@
 
 ## 👋 Sobre mim
 
-Sou formado em **Engenharia de Software** e **Gestão da Qualidade**, com desenvolvimento de projetos nas áreas de **Inteligência Artificial, Engenharia de Dados, Machine Learning, IA Generativa, APIs, Cloud Computing e Engenharia de Software**.
+Sou formado em **Engenharia de Software** e **Gestão da Qualidade**, com desenvolvimento de projetos nas áreas de **Inteligência Artificial, Engenharia de Dados, Machine Learning, MLOps, IA Generativa, APIs, Cloud Computing e Engenharia de Software**.
 
-Atualmente, concentro meus estudos e projetos na construção de soluções utilizando **Python, FastAPI, LLMs, RAG, agentes inteligentes, Machine Learning, PostgreSQL, SQL, processamento de dados e arquiteturas orientadas a serviços**.
+Atualmente, concentro meus estudos e projetos na construção de soluções utilizando **Python, FastAPI, LLMs, RAG, agentes inteligentes, Machine Learning, PostgreSQL, SQL, processamento de dados, APIs e arquiteturas orientadas a serviços**.
 
-Meu foco está em transformar modelos, dados e componentes de Inteligência Artificial em **aplicações utilizáveis, integradas e orientadas a problemas reais**.
+Também venho desenvolvendo experiência prática em **Machine Learning Engineering e MLOps**, trabalhando com treinamento e avaliação de modelos, monitoramento de drift, observabilidade, governança de modelos, Continuous Evaluation, CI/CD e retraining governado.
+
+Meu foco está em transformar modelos, dados e componentes de Inteligência Artificial em **aplicações utilizáveis, integradas, confiáveis e orientadas a problemas reais**.
 
 ---
 
@@ -46,6 +48,19 @@ Meu foco está em transformar modelos, dados e componentes de Inteligência Arti
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-RAG-1565C0?style=for-the-badge)
 ![HITL](https://img.shields.io/badge/HITL-Human_in_the_Loop-E65100?style=for-the-badge)
 ![Guardrails](https://img.shields.io/badge/AI-Guardrails-B71C1C?style=for-the-badge)
+
+---
+
+## ⚙️ Machine Learning & MLOps
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Engineering-1565C0?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-Modeling-EC6B23?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-6A1B9A?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-Model_Lifecycle-00875A?style=for-the-badge)
+![Model Registry](https://img.shields.io/badge/Model_Registry-Governance-455A64?style=for-the-badge)
+![Drift](https://img.shields.io/badge/Drift-Monitoring-B71C1C?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -106,68 +121,80 @@ Meu foco está em transformar modelos, dados e componentes de Inteligência Arti
 
 ## 📂 Projetos em destaque
 
-Seleção de projetos que demonstram minha atuação prática em **Engenharia de IA, IA Generativa, Machine Learning, Dados, Visão Computacional, Segurança e Engenharia de Software**:
+Seleção de projetos que demonstram minha atuação prática em **Engenharia de IA, IA Generativa, Machine Learning, MLOps, Dados, Visão Computacional, Segurança e Engenharia de Software**:
 
 - 💰 [Agente Inteligente de Reembolso](https://github.com/Rogerio5/Reembolso-Inteligente-AI)  
-  *Agente de IA com supervisor, RAG híbrido, LangGraph, LlamaIndex, regras determinísticas, estado de sessão, HITL, guardrails e avaliação automatizada com LLM como juiz.*
+  *Agente de IA com arquitetura multiagente, supervisor, RAG híbrido, LangGraph, LlamaIndex, regras determinísticas, estado de sessão, HITL, guardrails e avaliação automatizada com LLM como juiz.*
 
-- 🔐 [Detecção de Fraudes em Cartões-Projeto-1](https://github.com/Ronaldo94-GITHUB/credit-card-fraud-detection)  
-  *Modelo de Machine Learning com XGBoost integrado a uma API FastAPI e aplicação web para análise e classificação de transações.*
-
-- 🔐 [Credit Card Fraud Detection-Projeto-2 — ML/MLOps Platform](https://github.com/Ronaldo94-GITHUB/credit-card-fraud-detection)  
-  *Plataforma end-to-end de Machine Learning com XGBoost, FastAPI, PostgreSQL, React e Docker, incluindo SHAP, drift monitoring, Ground Truth, Model Registry, Champion/Challenger, Continuous Evaluation, retraining governado, CI/CD e observabilidade.*
+- 🔐 [Credit Card Fraud Detection — ML/MLOps Platform](https://github.com/Ronaldo94-GITHUB/credit-card-fraud-detection)  
+  *Plataforma end-to-end de Machine Learning com XGBoost, FastAPI, PostgreSQL, React e Docker, incluindo SHAP, drift monitoring, Ground Truth, Model Registry, Champion/Challenger, Continuous Evaluation, retraining governado, CI/CD, observabilidade e governança de modelos.*
 
 - 🐱🐶 [Classificação de Gatos e Cachorros com MobileNetV2 + Grad-CAM](https://github.com/Rogerio5/Transfer-Learning-Project-in-Python-)  
-  *CNNs, Transfer Learning, interpretabilidade com Grad-CAM e exportação para TensorFlow Lite.*
+  *Classificação de imagens utilizando CNNs, Transfer Learning, MobileNetV2, interpretabilidade com Grad-CAM e exportação para TensorFlow Lite.*
 
 - 🛡️ [Detecção de EPIs com YOLOv3](https://github.com/Rogerio5/Yolo-Network-Detection-Project)  
-  *Pipeline de Visão Computacional para detecção de objetos com YOLOv3, OpenCV e métricas como mAP, precisão e recall.*
+  *Pipeline de Visão Computacional para detecção de objetos com YOLOv3, OpenCV e avaliação por mAP, precisão e recall.*
 
 - 🎯 [Sistema de Recomendação de Imagens](https://github.com/Rogerio5/Digital-image-recommendation-system-Project)  
-  *Embeddings visuais, PCA, análise de similaridade e recomendações automáticas de imagens.*
+  *Sistema baseado em embeddings visuais, PCA, análise de similaridade e recomendação automática de imagens relacionadas.*
 
 - 📸 [Reconhecimento Facial com Webcam](https://github.com/Rogerio5/Facial-Detection-Project)  
-  *Detecção e reconhecimento facial utilizando MTCNN, FaceNet, SVM e OpenCV.*
+  *Pipeline de detecção e reconhecimento facial utilizando MTCNN, FaceNet, SVM e OpenCV.*
 
 - 🔐 [Agente de Vulnerabilidades em Arquiteturas Web](https://github.com/Rogerio5/Architectures-Vulnerability-Detection-Agent-Project)  
-  *Análise de vulnerabilidades com Bandit, STRIDE, STIX, análise estática e automação apoiada por IA.*
+  *Análise de vulnerabilidades com Bandit, STRIDE, STIX, análise estática e automação apoiada por Inteligência Artificial.*
 
 - 🤖 [LangChain TestGen com Ollama](https://github.com/Rogerio5/langchain-testgen-ollama)  
   *Automação da geração de testes unitários utilizando Python, LangChain, Ollama, LLM local e Pytest.*
 
 - 🧠 [Processamento de Imagens PPM](https://github.com/Rogerio5/Dimensionality-Reduction-in-Images-for-Neural-Networks-)  
-  *Manipulação de imagens em baixo nível, conversão para escala de cinza, binarização e preparação para redes neurais.*
+  *Processamento de imagens em baixo nível, conversão para escala de cinza, binarização e preparação de dados para aplicações de redes neurais.*
 
 ---
 
-<h2>📊 Estatísticas do GitHub</h2>
+## 📈 Atividade no GitHub
 
-<p>
+<p align="center">
   <img
-    align="left"
+    src="https://ghchart.rshah.org/Rogerio5"
+    alt="Calendário de contribuições GitHub de Rogério Augusto Sabino"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rogerio5&theme=react-dark&hide_border=true&area=true"
+    alt="Gráfico de atividade no GitHub"
+    width="100%"
+  />
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+
+  <img
     alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
+    height="195"
     src="https://meuperfil-omega.vercel.app/api?username=Rogerio5&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
   />
 
   <img
-    align="left"
     alt="Top Languages"
-    height="200"
-    style="padding-left: 10px;"
+    height="195"
     src="https://meuperfil-omega.vercel.app/api/top-langs/?username=Rogerio5&layout=compact&theme=radical&custom_title=Tecnologias&langs_count=9"
   />
-</p>
-<br clear="left" />
 
-<div class="section">
+</p>
 
 ---
 
 <div align="center">
 
-### 🚀 IA • Dados • Machine Learning • Engenharia de Software • Cloud
+### 🚀 IA • Dados • Machine Learning • MLOps • Engenharia de Software • Cloud
 
 **Construindo soluções inteligentes com engenharia, dados e propósito.**
 
