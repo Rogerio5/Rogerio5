@@ -164,18 +164,6 @@ Seleção de projetos que demonstram minha atuação prática em **Engenharia de
 
 ---
 
-## 📈 Atividade no GitHub
-
-<p align="center">
-  <img
-    src="assets/github-contributions-2026.png"
-    alt="Atividade de contribuições no GitHub em 2026"
-    width="100%"
-  />
-</p>
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
