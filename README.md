@@ -162,6 +162,60 @@ Seleção de projetos que demonstram minha atuação prática em **Engenharia de
   />
 </p>
 
+<p align="center">
+
+![Contribuições](https://img.shields.io/badge/Contribuições_últimos_12_meses-670-2EA043?style=for-the-badge&logo=github&logoColor=white)
+![Foco](https://img.shields.io/badge/Foco-IA_%26_Dados-6A1B9A?style=for-the-badge)
+![Status](https://img.shields.io/badge/Projetos-Em_evolução-0969DA?style=for-the-badge)
+
+</p>
+
+### 🗂️ Contribution Activity
+
+<table>
+<tr>
+<td width="150"><strong>Setembro 2026</strong></td>
+<td>
+
+🚀 **10 commits em 1 repositório**  
+📦 **1 novo repositório criado**
+
+Atuação recente em projetos de **IA, Cloud, Machine Learning e Engenharia de Software**.
+
+</td>
+</tr>
+
+<tr>
+<td width="150"><strong>Agosto 2026</strong></td>
+<td>
+
+🚀 **79 commits em 10 repositórios**  
+📦 **8 novos repositórios criados**
+
+Período de forte desenvolvimento de projetos envolvendo **GenAI, RAG, agentes, Machine Learning, MLOps, APIs e automação**.
+
+</td>
+</tr>
+</table>
+
+### 🚀 Projetos relacionados à atividade recente
+
+- ☁️ **AWS GenAI Smart Assistant Lab**  
+  Amazon Bedrock AgentCore • MCP • Lambda • DynamoDB • S3 • Knowledge Base/RAG
+
+- 🔐 **Credit Card Fraud Detection — ML/MLOps Platform**  
+  XGBoost • FastAPI • PostgreSQL • SHAP • Drift Monitoring • Model Registry • Continuous Evaluation
+
+- 💰 **Agente Inteligente de Reembolso**  
+  GenAI • RAG híbrido • LangGraph • LlamaIndex • Multiagentes • HITL • Guardrails
+
+<p align="center">
+  <sub>
+    Desenvolvimento contínuo de projetos de Inteligência Artificial,
+    Machine Learning, Dados, Cloud e Engenharia de Software.
+  </sub>
+</p>
+
 ---
 
 ## 📊 Estatísticas do GitHub
