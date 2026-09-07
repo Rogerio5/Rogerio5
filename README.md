@@ -111,8 +111,11 @@ Seleção de projetos que demonstram minha atuação prática em **Engenharia de
 - 💰 [Agente Inteligente de Reembolso](https://github.com/Rogerio5/Reembolso-Inteligente-AI)  
   *Agente de IA com supervisor, RAG híbrido, LangGraph, LlamaIndex, regras determinísticas, estado de sessão, HITL, guardrails e avaliação automatizada com LLM como juiz.*
 
-- 🔐 [Detecção de Fraudes em Cartões](https://github.com/Ronaldo94-GITHUB/credit-card-fraud-detection)  
+- 🔐 [Detecção de Fraudes em Cartões-Projeto-1](https://github.com/Ronaldo94-GITHUB/credit-card-fraud-detection)  
   *Modelo de Machine Learning com XGBoost integrado a uma API FastAPI e aplicação web para análise e classificação de transações.*
+
+- 🔐 [Credit Card Fraud Detection-Projeto-2 — ML/MLOps Platform](https://github.com/Ronaldo94-GITHUB/credit-card-fraud-detection)  
+  *Plataforma end-to-end de Machine Learning com XGBoost, FastAPI, PostgreSQL, React e Docker, incluindo SHAP, drift monitoring, Ground Truth, Model Registry, Champion/Challenger, Continuous Evaluation, retraining governado, CI/CD e observabilidade.*
 
 - 🐱🐶 [Classificação de Gatos e Cachorros com MobileNetV2 + Grad-CAM](https://github.com/Rogerio5/Transfer-Learning-Project-in-Python-)  
   *CNNs, Transfer Learning, interpretabilidade com Grad-CAM e exportação para TensorFlow Lite.*
